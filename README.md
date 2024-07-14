@@ -1,13 +1,15 @@
 #Polling System API
 This is an API-based polling system implemented using Node.js, Express, MongoDB, and Socket.IO.
 
-Features
-Create questions with options
-Add votes to options
-Real-time updates using Socket.IO
-Scalable folder structure
-Error handling
+##Features
+#####Create questions with options
+#####Add votes to options
+#####Real-time updates using Socket.IO
+#####Scalable folder structure
+######Error handling
+
 ##Folder Structure
+```bash
 project-root/
 │
 ├── src/
@@ -37,3 +39,4 @@ project-root/
 ├── app.js
 ├── package.json
 └── README.md
+```
